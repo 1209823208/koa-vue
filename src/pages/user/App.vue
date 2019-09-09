@@ -4,16 +4,16 @@
     </div>
 </template>
 <script>
-    export default {
-        data() {
-            return {
-                rewardList: [],
-            };
-        },
-        components: {},
-        created() {
-        },
-        methods: {
-        },
-    };
+export default {
+    data() {
+        return {
+            rewardList: [],
+        };
+    },
+    components: {},
+    created() {
+    },
+    methods: {
+    },
+};
 </script>

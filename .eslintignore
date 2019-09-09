@@ -1,7 +1,7 @@
 # 不用加入eslint的目录
 
-
+static/dist/
 diff-eslint.js
 package.json
-
+vue.config.js
 

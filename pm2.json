@@ -1,0 +1,15 @@
+{
+    "name": "superboss-test-svg2png",
+    "max_memory_restart": "2048M",
+    "script": "./index.js",
+    "cwd": "./",
+    "exec_mode": "cluster",
+    "instances": 4,
+    "error_file": "./logs/index/app-err.log",
+    "out_file": "./logs/index/app-out.log",
+    "log_date_format": "YYYY-MM-DD HH:mm Z",
+    "merge_logs": true,
+    "env": {
+        "NODE_ENV": "production"
+    }
+}

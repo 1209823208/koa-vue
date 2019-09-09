@@ -5,14 +5,15 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 本地环境
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 生产环境
 ```
 npm run build
+node index.js
 ```
 
 ### Run your tests
@@ -24,6 +25,3 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
